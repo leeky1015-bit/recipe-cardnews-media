@@ -1,4 +1,0 @@
-[Instagram 카드 넘기기] card-01.png ~ card-05.png 를 순서대로 올리고 caption.txt 를 캡션에 붙여넣기
-  - 음악: 앱에서 사진을 고른 뒤 '음악 추가'로 직접 넣기 (예약 도구로는 불가)
-  - 검색어 추천(bouncy): 경쾌한 팝, 신나는 어쿠스틱, 'upbeat cooking'
-[YouTube 쇼츠] reel.mp4 (무료 음원 bouncy-01.wav) 업로드, 제목은 '참치김치볶음밥 #Shorts'
